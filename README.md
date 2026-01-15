@@ -1,0 +1,2 @@
+- Проект уже развернут на домене adlibis.ookay.by если нужно.
+- [Коллекция Postman](https://raw.githubusercontent.com/bryan-txg/adlibis-test/refs/heads/master/postman.json) находится в корне проекта
